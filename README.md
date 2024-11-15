@@ -17,11 +17,10 @@ Morgan and Jamie will carry out the task. Morgan will handle the â€œBook Reviewâ
 
 ### See images below:
 
-![alt text](image1.png)
-![alt text](image2.png)
-![alt text](image3.png)
-![alt text](image4.png)
 ![alt text](images/image1.png)
+![alt text](images/image2.png)
+![alt text](images/image3.png)
+![alt text](images/image4.png)
 
 The images above shows the steps on how i created my repository and named it greenwood-library-website, also further to initializing it with a README.md file and lastly cloning it to my local machine.
 
@@ -38,13 +37,13 @@ I was able to achive the above files using the command "Vim" on my local termina
 
 See image representation below. 
 
-![alt text](image5.png)
+![alt text](images/image5.png)
 
 After creating the above files, I proceeded to staging, adding and commiting. This will allow Git to be aware of the files created and the modifications made to them at any point in time.
 
-![alt text](image6.png)
-![alt text](image7.png)
-![alt text](image8.png)
+![alt text](images/image6.png)
+![alt text](images/image7.png)
+![alt text](images/image8.png)
 
 The above images shows the staging, comitting and pushing process of the files to the github.
 
@@ -53,9 +52,9 @@ The above images shows the staging, comitting and pushing process of the files t
 A branch was created for morgan named "add-book-Reviews" and a new file called book_reviews.html was created to represent the book reviews section of the project.
 This file (*book_reviews.html*) contains Morgan's codes in building the **Book Reviews** Section of the project.
 
-![alt text](image9.png)
-![alt text](image10.png)
-![alt text](image11.png)
-![alt text](<image 12.png>)
+![alt text](images/image9.png)
+![alt text](images/image10.png)
+![alt text](images/image11.png)
+![alt text](images/image12.png)
 
 The above images shows how the file (book_review.html) was created, stage and committed, Also it shows how the new  branch created for morgan named (add-book-review) was created and switched to from the default brach.
