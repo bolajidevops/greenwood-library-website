@@ -43,6 +43,18 @@ After creating the above files, I proceeded to staging, adding and commiting. Th
 
 ![alt text](image6.png)
 ![alt text](image7.png)
+![alt text](image8.png)
 
-The above images shows the staging and comitting process of the files to the github.
+The above images shows the staging, comitting and pushing process of the files to the github.
 
+### Morgan's Task: Adding Book Reviews
+
+A branch was created for morgan named "add-book-Reviews" and a new file called book_reviews.html was created to represent the book reviews section of the project.
+This file (*book_reviews.html*) contains Morgan's codes in building the **Book Reviews** Section of the project.
+
+![alt text](image9.png)
+![alt text](image10.png)
+![alt text](image11.png)
+![alt text](<image 12.png>)
+
+The above images shows how the file (book_review.html) was created, stage and committed, Also it shows how the new  branch created for morgan named (add-book-review) was created and switched to from the default brach.
