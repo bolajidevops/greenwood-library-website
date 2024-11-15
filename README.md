@@ -21,6 +21,7 @@ Morgan and Jamie will carry out the task. Morgan will handle the â€œBook Reviewâ
 ![alt text](image2.png)
 ![alt text](image3.png)
 ![alt text](image4.png)
+![alt text](images/image1.png)
 
 The images above shows the steps on how i created my repository and named it greenwood-library-website, also further to initializing it with a README.md file and lastly cloning it to my local machine.
 
