@@ -55,6 +55,14 @@ This file (*book_reviews.html*) contains Morgan's codes in building the **Book R
 ![alt text](images/image9.png)
 ![alt text](images/image10.png)
 ![alt text](images/image11.png)
-![alt text](images/image12.png)
 
 The above images shows how the file (book_review.html) was created, stage and committed, Also it shows how the new  branch created for morgan named (add-book-review) was created and switched to from the default brach.
+
+A pull request will be raised for Morgan's work (add-book-review) and will be merged with the main branch to bring it up to date.
+
+![alt text](images/image12.png)
+![alt text](images/image13.png)
+![alt text](images/image14.png)
+![alt text](images/images15.png)
+
+Images above shows how a pull request was raised for Morgan's work and how it was merge to the main branch to keep the project updated. 
