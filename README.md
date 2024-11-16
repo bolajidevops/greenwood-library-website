@@ -56,7 +56,9 @@ This file (*book_reviews.html*) contains Morgan's codes in building the **Book-R
 ![alt text](images/image10.png)
 ![alt text](images/image11.png)
 
-The above images shows how the file (book_review.html) was created, stage and committed, Also it shows how the new  branch created for morgan named (add-book-review) was created and switched to from the default brach.
+- The above images shows how the file (book_review.html) was created.
+- How it was stage and committed. 
+- Also it shows how the new  branch created for morgan named (add-book-review) was created and switched to from the default brach.
 
 A pull request will be raised for Morgan's work (add-book-review) and will be merged with the main branch to bring it up to date.
 
@@ -71,3 +73,20 @@ Images above shows how a pull request was raised for Morgan's work and how it wa
 
  A branch was created for Jamie named "update-events" and a new file called *update-events.html* was created to represent the book reviews section of the project.
 This file (*update-events.html*) contains Morgan's codes in building the **Update-Events** Section of the project.
+
+![alt text](images/image16.png)
+![alt text](images/image17.png)
+![alt text](images/image18.png)
+
+- The above images shows how the Jamie's file (update-events.html) was created.
+- It shows how it was stage and committed.
+- It shows how the new  branch created for Jamie named (update-events) was created and switched to from the default brach.
+- It also shows how it was pushed from the local system to the remote online.
+
+A pull was raised from the main branch to Jamie's branch (update-events) so Jamie can have access to all the file and add his own part of the project after which a pull request was raised to merge all Jamie's work to the main branch.
+
+![alt text](images/image19.png)
+![alt text](images/image20.png)
+![alt text](images/image21.png)
+
+The images above explains how Jamies task of the project was completed and merge with the main project.
