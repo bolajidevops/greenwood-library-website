@@ -49,8 +49,8 @@ The above images shows the staging, comitting and pushing process of the files t
 
 ### Morgan's Task: Adding Book Reviews
 
-A branch was created for morgan named "add-book-Reviews" and a new file called book_reviews.html was created to represent the book reviews section of the project.
-This file (*book_reviews.html*) contains Morgan's codes in building the **Book Reviews** Section of the project.
+A branch was created for morgan named "add-book-Reviews" and a new file called *book_reviews.html* was created to represent the book reviews section of the project.
+This file (*book_reviews.html*) contains Morgan's codes in building the **Book-Reviews** Section of the project.
 
 ![alt text](images/image9.png)
 ![alt text](images/image10.png)
@@ -65,4 +65,9 @@ A pull request will be raised for Morgan's work (add-book-review) and will be me
 ![alt text](images/image14.png)
 ![alt text](images/images15.png)
 
-Images above shows how a pull request was raised for Morgan's work and how it was merge to the main branch to keep the project updated. 
+Images above shows how a pull request was raised for Morgan's work and how it was merge to the main branch to keep the project updated.
+
+### Jamie's Task: Updating Events Page
+
+ A branch was created for Jamie named "update-events" and a new file called *update-events.html* was created to represent the book reviews section of the project.
+This file (*update-events.html*) contains Morgan's codes in building the **Update-Events** Section of the project.
