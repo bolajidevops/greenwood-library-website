@@ -37,10 +37,10 @@ In my main branch using the Visual Code Editor i created the following files for
 
 I was able to achive the above files using the command "Vim" on my local terminal on Visual code editor.
 
-`vim home.html`
-`vim about_us.html`
-`vim events.html`
-`contact_us.html`
+- `vim home.html`
+- `vim about_us.html`
+- `vim events.html`
+- `contact_us.html`
 
 See image representation below. 
 
@@ -48,9 +48,9 @@ See image representation below.
 
 After creating the above files, I proceeded to staging, adding and commiting. This will allow Git to be aware of the files created and the modifications made to them at any point in time.
 
-`git add .`
-`git commit -m "word added"`
-` git push`
+- `git add .`
+- `git commit -m "word added"`
+- `git push`
 
 ![alt text](images/image6.png)
 ![alt text](images/image7.png)
@@ -65,9 +65,9 @@ This file (*book_reviews.html*) contains Morgan's codes in building the **Book-R
 
 Creating branch **add-book-reviews** for Morgan, Creating a file (book_reviews.html) under this branch and also pushing Morgan work to the online Repo.
 
-`git checkout -b add-book-reviews"`
-`vim book_reviews.html`
-`git push --set-upstream origin add-book-reviews`
+- `git checkout -b add-book-reviews"`
+- `vim book_reviews.html`
+- `git push --set-upstream origin add-book-reviews`
 
 
 ![alt text](images/image9.png)
@@ -96,9 +96,9 @@ This file (*update-events.html*) contains Morgan's codes in building the **Updat
 
 Creating a branch **Update-Events** for jamie and creating a file (update-events.html) under this branch.
 
-`git checkout -b update-events`
-`vim update-events.html`
-`git push -u origin update-events`
+- `git checkout -b update-events`
+- `vim update-events.html`
+- `git push -u origin update-events`
 
 ![alt text](images/image16.png)
 ![alt text](images/image17.png)
