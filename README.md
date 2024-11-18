@@ -15,6 +15,8 @@ Morgan and Jamie will carry out the task. Morgan will handle the â€œBook Reviewâ
 * Naming it grrenwood-library-website
 * Initializing it with a README.md file and cloning it to my local machine.
 
+`git clone https://github.com/bolajidevops/greenwood-library-website.git`
+
 ### See images below:
 
 ![alt text](images/image1.png)
